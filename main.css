@@ -4,8 +4,8 @@ h1 {
 container{
     background-color: white;
     padding: 20px;
-    border-radius:16px
+    border-radius:16px;
 }
 body{
-    background-image: url("https://lorempixel.com");
+    background-image: url("https://lorempixel.com/800/800");
 }
